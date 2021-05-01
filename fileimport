@@ -1,3 +1,0 @@
-$ git clone --bare https://rsm-gitlab.ucsd.edu:2443/akchaudh/toxic-comment-classification.git
-$ cd repo.git
-$ git push --mirror https://github.com/shreyagarg1502/shreyagarg1502.github.io
